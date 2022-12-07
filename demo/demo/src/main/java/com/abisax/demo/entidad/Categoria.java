@@ -1,6 +1,8 @@
 package com.abisax.demo.entidad;
 
-@Entity
+import jakarta.persistence.Entity;
+
+//@Entity
 public class Categoria {
 
 }
