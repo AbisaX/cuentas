@@ -1,6 +1,6 @@
 package com.abisax.demo.entidad;
 
-import jakarta.persistence.Entity;
+import javax.persistence.Entity;
 
 //@Entity
 public class Balance {
